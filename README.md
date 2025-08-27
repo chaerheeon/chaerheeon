@@ -34,6 +34,7 @@ While I usually prefer working from home, I occasionally enjoy the café coding 
 
 </div>
 
+![chaerheeon's Stats](https://github-readme-stats.vercel.app/api?username=chaerheeon&theme=default&show_icons=true&hide_border=true&count_private=true)
 ---
 
 ## 🌱 Currently Exploring
