@@ -33,13 +33,12 @@ While I usually prefer working from home, I occasionally enjoy the café coding 
 ## 💬 Ask Me About
 - **numpy, pandas, pytorch**
 - **Machine Learning, Deep Learning**
-- **LLM development and deployment**
-- **Python backend development**
+- **LLM finetuning and deployment**
 
 ## 📫 How to Reach Me
 Feel free to connect or collaborate!
 - **Email:** lillian.ce.rhee@gmail.com
-- **LinkedIn:** [TBA](TBA)
+- **LinkedIn:** TBA
 
 ---
 
@@ -89,7 +88,4 @@ Feel free to connect or collaborate!
 </table>
 
 ---
-
-<p align="center">Please send help (and espresso). 🔥</p>
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaerheeon&show_icons=true&locale=en" alt="chaerheeon" /></p>
