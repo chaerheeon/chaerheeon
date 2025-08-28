@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm chaerheeon (이채언)</h1>
+<h1 align="center">Hi 👋, I'm Lillian (Chae-Eon) Rhee</h1>
 <h3 align="center">Artificial Intelligence Engineer</h3>
 
 I'm an AI developer who loves building and experimenting with new technologies — especially around machine learning, data science, and LLMs.
